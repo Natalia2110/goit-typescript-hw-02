@@ -1,0 +1,18 @@
+.load-box {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+}
+.load-btn {
+  display: block;
+  margin: 0 auto;
+  padding: 8px 15px;
+  border: 1px solid #4073d1;
+  border-radius: 4px;
+  background-color: #6495ed;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  font-weight: 400;
+  color: white;
+}
